@@ -8,6 +8,11 @@
   border: 1px solid #4CAF50;
 }
 
+div {
+  margin: 70px;
+  border: 9px solid #4CAF50;
+}
+
 body {
   background-color: lightblue;
 }
