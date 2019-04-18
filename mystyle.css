@@ -1,7 +1,7 @@
 <!-- back ground settings -->
 
 .header {
-  background-color: blue;
+  background-image: url("hdo1.jpg");
   padding: 70px;
   border: 5px solid #4CAF50;
 }
