@@ -1,7 +1,11 @@
 <!-- back ground settings -->
-body {
+<!-- -->
+div {
   background-image: url("hdo1.jpg");
+  padding: 10px;
+  border: 1px solid #4CAF50;
 }
+<!-- main body color -->
 body {
   background-color: lightblue;
 }
