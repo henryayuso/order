@@ -9,9 +9,10 @@
 }
 
 #myDiv {
-  margin: 70px;
+  margin: 10px;
   border: 9px solid #4CAF50;
   background-image: url("hdo1.jpg");
+  padding: 70px;
 }
 
 body {
