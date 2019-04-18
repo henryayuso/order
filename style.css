@@ -1,7 +1,8 @@
 <!-- back ground settings -->
 <!-- -->
 #header {
-  background-image: url("hdo1.jpg");
+ <! -- background-image: url("hdo1.jpg"); -->
+  background-color: lightblue;
   padding: 10px;
   border: 1px solid #4CAF50;
 }
