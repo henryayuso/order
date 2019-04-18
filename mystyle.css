@@ -1,16 +1,17 @@
 <!-- back ground settings -->
 
 .header {
-  background-image: url("hdo1.jpg");
+  
   padding: 70px;
   border: 5px solid #4CAF50;
   margin: 70px;
   border: 1px solid #4CAF50;
 }
 
-div {
+#myDiv {
   margin: 70px;
   border: 9px solid #4CAF50;
+  background-image: url("hdo1.jpg");
 }
 
 body {
