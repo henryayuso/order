@@ -39,3 +39,10 @@ body {
   background-color: #ddd;
   color: black;
 }
+
+/* Style for iframe left side  menu */
+iframe{
+  height="500";
+  width="700";
+}
+
