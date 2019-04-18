@@ -41,7 +41,7 @@ body {
 }
 
 /* Style for iframe left side  menu */
-iframe{
+#myFrame{
   height="500";
   width="700";
 }
