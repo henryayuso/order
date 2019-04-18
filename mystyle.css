@@ -1,16 +1,15 @@
 <!-- back ground settings -->
-<!-- -->
+
 .header {
   background-color: blue;
   padding: 70px;
   border: 1px solid #4CAF50;
 }
-<!-- main body color -->
+
 body {
   background-color: lightblue;
 }
 
-<!--nav-->
 /* Style the top navigation bar */
 .topnav {
   overflow: hidden;
