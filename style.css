@@ -1,6 +1,6 @@
 <!-- back ground settings -->
 <!-- -->
-div {
+#header {
   background-image: url("hdo1.jpg");
   padding: 10px;
   border: 1px solid #4CAF50;
