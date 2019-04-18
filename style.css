@@ -1,9 +1,8 @@
 <!-- back ground settings -->
 <!-- -->
 .henry {
- <! -- background-image: url("hdo1.jpg"); -->
-  background-color: lightblue;
-  padding: 10px;
+  background-color: blue;
+  padding: 70px;
   border: 1px solid #4CAF50;
 }
 <!-- main body color -->
