@@ -67,5 +67,11 @@ td, th {
 tr:nth-child(even) {
   background-color: #dddddd;
 }
+
+/* invoice Container for flexboxes */
+section {
+  display: -webkit-flex;
+  display: flex;
+}
 /*-----------------------------*/
 
