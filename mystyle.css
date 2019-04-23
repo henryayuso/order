@@ -13,7 +13,8 @@
   border: 3px solid #0c0c0e;
   background-image: url("images/wdcounter.jpeg");
   padding: 10px;
-  width: 30%;
+  width: 75%;
+  align: center;
   background-repeat: no-repeat;
   background-position: center;
   background-size: 100% 100%;
