@@ -11,7 +11,7 @@
 #myDiv {
   margin: 10px;
   border: 9px solid #f2f2f2;
-  background-image: url("/images/wdcounter.jpeg");
+  background-image: url("images/wdcounter.jpeg");
   padding: 70px;
 }
 
