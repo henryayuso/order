@@ -15,7 +15,7 @@
   padding: 70px;
   background-repeat: no-repeat;
   background-position: center;
-  background-size: 300px 100px;
+  background-size: 100% 50%;
 }
 
 body {
