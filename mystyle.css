@@ -9,10 +9,10 @@
 }
 
 #myDiv {
-  margin: 10px;
-  border: 9px solid #f2f2f2;
+  margin: 2px;
+  border: 9px solid #0c0c0e;
   background-image: url("images/wdcounter.jpeg");
-  padding: 70px;
+  padding: 10px;
   background-repeat: no-repeat;
   background-position: center;
   background-size: 100% 100%;
