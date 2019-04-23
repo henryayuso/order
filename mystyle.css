@@ -8,6 +8,9 @@
   border: 1px solid #4CAF50;
 }
 
+#end{
+  width: 25%;
+}
 #myDiv {
   margin: 1px;
   border: 3px solid #0c0c0e;
