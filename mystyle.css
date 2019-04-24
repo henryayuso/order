@@ -86,4 +86,7 @@ section {
   display: flex;
 }
 /*-----------------------------*/
-
+body{
+  background-image: url("images/vegbg.jpeg");
+  background-repeat: no-repeat;
+}
