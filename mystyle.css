@@ -100,5 +100,7 @@ section {
   border: 10px solid black;
 }
 #menuSection{
-  
+  height: 90%;
+  width: 50%
+    border: 10px solid black;
 }
