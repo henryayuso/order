@@ -94,8 +94,11 @@ section {
   background-repeat: no-repeat;
 }
 #menuDisplay{
-  hpadding: 70px;
+  padding: 70px;
   height: 90%;
   width: 50%
-  border: 1px solid black;
+  border: 10px solid black;
+}
+#menuSection{
+  
 }
