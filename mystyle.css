@@ -96,11 +96,11 @@ section {
 #menuDisplay{
   padding: 70px;
   height: 90%;
-  width: 50%
+  width: 100%
   border: 10px solid black;
 }
 #menuSection{
   height: 90%;
   width: 90%
-    border: 10px solid black;
+    border: 50px solid black;
 }
