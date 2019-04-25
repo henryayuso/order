@@ -62,6 +62,8 @@ body {
 
 .myDiv2{
 padding: 70px;
+  height: 90%;
+  width: 50%
 }
 
 /* invoice table formating*/
