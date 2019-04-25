@@ -91,3 +91,7 @@ section {
   background-image: url("images/vegbg.jpeg");
   background-repeat: no-repeat;
 }
+#menuDisplay{
+  height: "500";
+  width: "700";
+}
