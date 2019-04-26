@@ -69,12 +69,12 @@ padding: 70px;
 /* invoice table formating*/
 table {
   font-family: arial, sans-serif;
-  border-collapse: collapse;
+  /* border-collapse: collapse; */
   width: 30%;
 }
 
 td, th {
-  border: 1px solid black;
+ /*border: 1px solid black; */
   text-align: left;
   padding: 8px;
 }
